@@ -14,10 +14,10 @@ This project was part of UC Berkeley Data Analytics Boot Camp.
 - JSON
 
 #### Code and App examples
-![Code1](/images/code1.png)
+![Code1](/Image/code1.png)
 
-![Code2](/images/code2.png)
+![Code2](/Image/code2.png)
 
-![Code3](/images/code3.png)
+![Code3](/Image/code3.png)
 
-![Code4](/images/code4.png)
+![Code4](/Image/code4.png)
